@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 Hello, I'm Santosh!
 
-📫 How to reach me: spatapatiwork@joinstemist.org
+📫 How to reach me: spatapati@joinstemist.org
