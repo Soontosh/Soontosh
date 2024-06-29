@@ -55,7 +55,6 @@ currently_learning: ["Docker, Linux, Unreal Engine, and C++"]
 hobbies: ["Cinema", "Magic: The Gathering", "Pokemon: Nuzlocke"]
 currently_watching: Brooklyn Nine-Nine
 ```
-  
 ---  
   
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
@@ -86,6 +85,29 @@ currently_watching: Brooklyn Nine-Nine
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45" title="Bash"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45" title="Figma"/>  
 </p>
+
+---  
+
+<h2> 📈 &nbsp;My Stats</h2>
+
+<!--
+<div align="center">
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Soontosh&theme=dark&show_icons=true" />
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soontosh&theme=dark&layout=compact&langs_count=10&hide=Shell&card_width=400" />
+
+</div>
+-->
+
+<br/>
+
+<div align="center">
+
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=Soontosh&theme=dark)
+
+</div>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
