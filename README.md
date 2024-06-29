@@ -44,7 +44,7 @@ fields_of_interests:
 technical_background:
   [
     "Intern - Nanotech & ML Research @ UWash",
-    "Part-Time - ML Research @ 3Blue1Brown",
+    "Part-Time - ML Engineer @ 3Blue1Brown",
     "Maintainer - visualkeras",
   ]
   
