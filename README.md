@@ -93,9 +93,9 @@ currently_watching: Brooklyn Nine-Nine
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats-ten-fawn-85.vercel.app/api?username=Soontosh&theme=dark&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats-git-master-soontoshs-projects.vercel.app/api?username=Soontosh&theme=dark&show_icons=true" />
 
-  <img height="180em" src="https://github-readme-stats-ten-fawn-85.vercel.app/api/top-langs/?username=Soontosh&theme=dark&layout=compact&langs_count=10&hide=Shell&card_width=400" />
+  <img height="180em" src="https://github-readme-stats-git-master-soontoshs-projects.vercel.app/api/top-langs/?username=Soontosh&theme=dark&layout=compact&langs_count=10&hide=Shell&card_width=400" />
 
 </div>
 
