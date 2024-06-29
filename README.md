@@ -49,7 +49,7 @@ technical_background:
   ]
   
 currently_learning: ["Docker, Linux, Unreal Engine, and C++"]
-2024 Goals: ["Announce 2 Preprints, Submit 1 Paper to Journal, Get Through visualkeras Roadmap, Windows 11 --> Linux"]
+2024 Goals: ["25+ Open-Source Commits, Write 2 Preprints, Submit to a Journal, Switch from Windows 11 --> Linux"]
 hobbies: ["Cinema", "Magic: The Gathering", "Pokemon: Nuzlocke", "Art", "Comedy"]
 ```
   
