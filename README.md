@@ -90,15 +90,15 @@ currently_watching: Brooklyn Nine-Nine
 
 <h2> 📈 &nbsp;My Stats</h2>
 
-<!--
+
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Soontosh&theme=dark&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats-ten-fawn-85.vercel.app/api?username=Soontosh&theme=dark&show_icons=true" />
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soontosh&theme=dark&layout=compact&langs_count=10&hide=Shell&card_width=400" />
+  <img height="180em" src="https://github-readme-stats-ten-fawn-85.vercel.app/api/top-langs/?username=Soontosh&theme=dark&layout=compact&langs_count=10&hide=Shell&card_width=400" />
 
 </div>
--->
+
 
 <br/>
 
