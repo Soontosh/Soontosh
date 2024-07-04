@@ -33,6 +33,7 @@ name: Santosh Patapati
 located_in: Frisco, Texas
 current_job: ML Research Intern
 institution: Department of Electrical and Computer Engineering, University of Washington
+email: sapatapatiwork@gmail.com
 
 fields_of_interests:
   [
