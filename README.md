@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="lotoffungithub.gif" width="600">
+  <img src="lotoffungithub.gif" width="550">
 </p>
 
 ---
