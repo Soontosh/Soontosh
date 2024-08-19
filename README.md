@@ -49,12 +49,13 @@ technical_background:
     "Intern - Nanotech & ML Research @ UWash",
     "Part-Time - ML Engineer @ 3Blue1Brown",
     "Maintainer - visualkeras",
+    "Part-Time - ML Engineer @ Stealth Startup",
   ]
   
 currently_learning: ["Docker, Linux, Unreal Engine, and C++"]
-2024 Goals: ["25+ Open-Source Commits, Submit to a Journal, Switch from Windows 11 --> Linux"]
+20204_goals: ["25+ Open-Source Commits, Submit to a Journal, Switch from Windows 11 --> Linux"]
 hobbies: ["Cinema", "Magic: The Gathering", "Pokemon: Nuzlocke"]
-currently_watching: Brooklyn Nine-Nine
+currently_watching: "One Piece"
 ```
 ---  
   
