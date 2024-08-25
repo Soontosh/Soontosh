@@ -106,7 +106,7 @@ currently_watching: "One Piece"
 
 <div align="center">
 
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=Soontosh&theme=dark)
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=Soontosh&theme=dark&mode=weekly)
 
 </div>
 
