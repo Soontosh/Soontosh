@@ -6,12 +6,12 @@
   Let's Connect and have a Chat!💬
 </h1>
 
+<!--
 <p align="center">
-  <!--
 <a href="https://santoshp.vercel.app/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
 </a>
-  -->
+  
 <a href="https://www.linkedin.com/in/spatapati/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
@@ -19,6 +19,7 @@
   <img height="50" src="https://i.ibb.co/jzPMnfr/1873613-contact-email-message-letter-media-icon.png"/>
 </a>
 </p>
+-->
 
 <p align="center">
   <img src="lotoffungithub.gif" width="550">
