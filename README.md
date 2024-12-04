@@ -49,7 +49,6 @@ technical_background:
     "Intern - Nanotech & ML Research @ UWash",
     "Part-Time - ML Engineer @ 3Blue1Brown",
     "Maintainer - visualkeras",
-    "Part-Time - ML Engineer @ Stealth Startup",
   ]
   
 currently_learning: ["Docker, Linux, Unreal Engine, and C++"]
