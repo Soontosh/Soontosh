@@ -53,7 +53,7 @@ technical_background:
   
 currently_learning: ["Docker, Linux, Unreal Engine, and C++"]
 20204_goals: ["25+ Open-Source Commits, Submit to a Journal, Switch from Windows 11 --> Linux"]
-hobbies: ["Cinema", "Magic: The Gathering", "Pokemon: Nuzlocke"]
+hobbies: ["Magic: The Gathering", "Virtual Reality"]
 currently_watching: "One Piece"
 ```
 ---  
